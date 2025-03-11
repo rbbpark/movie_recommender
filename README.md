@@ -1,7 +1,5 @@
 # Movie Recommender
 
-Try it [here.](https://robbypark.com/movies/)
-
 ## About
 
 This is a movie recommender system. You can enter a set of movies you like and get recommendations based on your choices.
